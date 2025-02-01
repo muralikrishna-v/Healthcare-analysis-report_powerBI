@@ -6,7 +6,7 @@ This **Power BI Healthcare Analysis Dashboard** provides a **comprehensive, data
 
 This project showcases my **data analysis, data visualization, and business intelligence (BI) skills** by analyzing **screening participation rates** segmented by **ethnicity, language, race, and region** using **Power BI**.
 
-![Dashboard Overview](images/healthcare_dashboard.png)
+![Dashboard Overview](https://github.com/muralikrishna-v/Healthcare-analysis-report_powerBI/blob/main/healthcare_dashboard.png)
 
 ---
 
