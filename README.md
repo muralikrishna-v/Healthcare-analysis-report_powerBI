@@ -65,7 +65,7 @@ To address these challenges, this **interactive Power BI dashboard** was develop
 
 This **data model** includes key attributes such as **member demographics, screening participation, and healthcare regions**.
 
-![Data Model](images/healthcare_datamodelling.png)
+![Data Model](https://github.com/muralikrishna-v/Healthcare-analysis-report_powerBI/blob/main/healthcare_datamodelling.png)
 
 📌 **Key Metrics:**  
 - **Members Eligible for Screening** – Total count of members eligible for healthcare screening.  
